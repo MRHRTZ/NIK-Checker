@@ -8,7 +8,7 @@
 - Buka web browser dan masukan url <a href="http://localhost/NIK-Checker" target="_blank">localhost</a> yang telah disimpan.
 
 ## Demo
-- <a href="https://nik-checker.mrhrtz.com/">NIK-Checker</a>
+- <a href="https://nik-checker.mrhrtz.com/" target="_blank">NIK-Checker</a>
 
 ## Contact Me
 - <a href="https://wa.me/6285559038021">WhatsApp</a>
